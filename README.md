@@ -1,1 +1,3 @@
-Strukturēts un ar biežāk lietotajiem dependencies. Gatavs lietošanai
+Strukturēts un ar biežāk lietotajiem dependencies. 
+
+Install npm un go

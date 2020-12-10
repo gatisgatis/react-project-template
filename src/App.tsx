@@ -1,15 +1,14 @@
 import React from 'react';
-import './App.css';
+import './App.module.scss';
 // import _ from 'lodash';
 
-const App = () => {
+export const App = () => {
   return (
     <div>
       <div className="container">
-        <h1>hello World!</h1>
+        <h1>Hi There</h1>
       </div>
     </div>
   );
 };
 
-export default App;
